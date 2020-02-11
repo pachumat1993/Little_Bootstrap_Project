@@ -1,9 +1,16 @@
 
+body{
+    background-image: url(../img/pexels-photo-326311.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
 
 .faq {
     text-align: center;
     color: orange;
     margin-top: 10vh;
+    padding: 1em;
 }
 
 .span1{
@@ -44,3 +51,20 @@ color: orange;
     .blok1, .blok2,.blok3 {
         text-align: center;
     }
+
+
+    .prost1, .prost2, .prost3{
+        justify-content: center;
+       
+        
+    }
+
+    .mat1, .mat2, .mat3 {
+      justify-content: center;
+      height: 50%;
+      width: 50%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    

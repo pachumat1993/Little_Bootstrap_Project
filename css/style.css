@@ -1,0 +1,46 @@
+
+
+.faq {
+    text-align: center;
+    color: orange;
+    margin-top: 10vh;
+}
+
+.span1{
+color: orange;
+
+
+}
+
+
+
+.par1{
+    color:gray;
+    
+}
+
+
+.span2 {
+    color: orange;
+    
+    }
+    
+    .par2 {
+        color:gray;
+        
+    }
+
+    
+.span3 {
+    color: orange;
+    
+    }
+    
+    .par3{
+        color:gray;
+        
+    }
+
+    .blok1, .blok2,.blok3 {
+        text-align: center;
+    }
